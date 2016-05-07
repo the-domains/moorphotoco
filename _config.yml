@@ -1,0 +1,28 @@
+name: MoorPhotoCo
+favicon: null
+layout_spectrum: 0.18576867086812854
+typography_spectrum: 0.3758131945505738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8822535939980298
+  lightness: 0.03346999175846577
+  saturation: 0.5720381846185774
+  rhythmicContrast: 0.8316899507772177
+purpose: []
